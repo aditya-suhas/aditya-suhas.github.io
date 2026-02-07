@@ -129,7 +129,7 @@ paginate: 10
 
 # The base URL of your site
 baseurl: "/aditya-suhas.github.io"
-url:https://aditya-suhas.github.io
+url: https://aditya-suhas.github.io
 
 # ------------ The following options are not recommended to be modified ------------------
 
