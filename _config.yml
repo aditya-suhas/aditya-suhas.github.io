@@ -16,10 +16,10 @@ timezone: Asia/Kolkata
 
 title: Aditya Suhas Nair # the main title
 
-tagline: a home for my thoughts # it will display as the subtitle
+tagline: not just another blog # it will display as the subtitle
 
 description: >- # used by seo meta and the atom feed
-  a blog which contains the musings, random thoughts and ideas of Aditya Suhas Nair
+  A digital garden for provocative synthesis and technical rabbit holes. 100% human-written log of Aditya Suhas Nair
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
@@ -128,7 +128,7 @@ pwa:
 paginate: 10
 
 # The base URL of your site
-baseurl: "/aditya-suhas.github.io"
+baseurl: ""
 url: https://aditya-suhas.github.io
 
 # ------------ The following options are not recommended to be modified ------------------
